@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">scuffi</string>
+    <string name="title_activity_tab2">TabActivity2</string>
+    <string name="tab_text_1"></string>
+    <string name="tab_text_2"> </string>
+    <string name="tab_text_3"> </string>
+    <string name="tab_text_4"> </string>
+    <string name="btn">Get Started</string>
+
+</resources>
